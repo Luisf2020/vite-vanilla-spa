@@ -1,6 +1,6 @@
 # vite-vanilla-spa
 
-![stack: TypeScript](https://img.shields.io/badge/stack--TypeScript-0d9488?style=flat-square) ![stack: Vite](https://img.shields.io/badge/stack--Vite-0d9488?style=flat-square) ![stack: Vitest](https://img.shields.io/badge/stack--Vitest-0d9488?style=flat-square)
+![stack: TypeScript](https://img.shields.io/badge/stack--TypeScript-0d9488?style=flat-square) ![stack: Vite](https://img.shields.io/badge/stack--Vite-0d9488?style=flat-square) ![stack: Vitest](https://img.shields.io/badge/stack--Vitest-0d9488?style=flat-square) [![Demo](https://img.shields.io/badge/demo-en%20vivo-22c55e?style=flat-square)](https://luisf2020.github.io/vite-vanilla-spa/)
 ![IA: asistido](https://img.shields.io/badge/IA--asistido-6366f1?style=flat-square)
 
 SPA sin framework con Vite + TypeScript: router por hash y prueba unitaria con Vitest.
@@ -52,8 +52,8 @@ El nivel describe la complejidad tecnica del proyecto, no el grado de dominio de
 
 ## Despliegue
 
-Pendiente de construir y publicar.  
-El codigo fuente si esta disponible en este repositorio.
+Demo en vivo: <https://luisf2020.github.io/vite-vanilla-spa/>  
+Publicado con GitHub Pages (rama `gh-pages`).
 
 ## Autor
 
